@@ -6,7 +6,7 @@
             <title>Version 1.15.0</title>
             <description>Added Upgrade Alert</description>
             <pubDate>Fri, 07 Oct 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://github.com/JuniorHighGame/jhg2/releases/download/v0.1.0-beta.1/JHG-v0.1.0-beta.1-linux.zip" sparkle:version="1.0.0" sparkle:os="Linux" />
+            <enclosure url="https://github.com/JuniorHighGame/jhg2/releases/download/v0.1.0-beta.1/JHG-v0.1.0-beta.1-linux.zip" sparkle:version="1.0.0" sparkle:os="Window" />
         </item>
     </channel>
 </rss>
