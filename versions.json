@@ -1,0 +1,10 @@
+{
+    "name": "JuniorHighGame",
+    "version": 1.1,
+    "description": [
+        "Added Upgrade Alert"
+    ],
+    "Macos_file_name": "installers/macos/in_app_update_flutter.dmg",
+    "windows_file_name": "installers/windows/mysetup.exe",
+    "linux_file_name": ""
+}
