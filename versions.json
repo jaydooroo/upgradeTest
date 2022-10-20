@@ -1,10 +1,10 @@
 {
     "name": "JuniorHighGame",
-    "version": 1.1,
+    "version": "2.1.0",
     "description": [
         "Added Upgrade Alert"
     ],
-    "Macos_file_name": "installers/macos/in_app_update_flutter.dmg",
-    "windows_file_name": "installers/windows/mysetup.exe",
-    "linux_file_name": ""
+    "macosFileName": "installers/macos/in_app_update_flutter.dmg",
+    "windowsFileName": "installers/windows/mysetup.exe",
+    "linuxFileName": "https://github.com/JuniorHighGame/jhg2/releases/download/v0.1.0-beta.1/JHG-v0.1.0-beta.1-linux.zip"
 }
