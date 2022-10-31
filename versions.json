@@ -6,5 +6,5 @@
     ],
     "macosFileName": "installers/macos/in_app_update_flutter.dmg",
     "windowsFileName": "installers/windows/mysetup.exe",
-    "linuxFileName": "https://github.com/JuniorHighGame/jhg2/releases/download/v0.1.0-beta.1/JHG-v0.1.0-beta.1-linux.zip"
+    "linuxFileName": "https://github.com/JuniorHighGame/jhg_release/releases/download/v0.1.0-beta.2/JHG-v0.1.0-beta.2-linux.zip"
 }
